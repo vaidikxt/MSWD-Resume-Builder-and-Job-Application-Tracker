@@ -1,0 +1,1 @@
+The AI-Powered Resume Builder & Job Application Tracker is a web application designed to help job seekers create ATS-friendly resumes, track job applications, and optimize their job search process efficiently. Featuring AI-driven resume generation, seamless job tracking, and an intuitive user interface, this tool simplifies and enhances the job-hunting experience.
